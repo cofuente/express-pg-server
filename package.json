@@ -38,7 +38,7 @@
       "git add"
     ]
   },
-  "author": "Fullstack Academy of Code",
+  "author": "Chiara Marcial Martínez",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.19.2",
