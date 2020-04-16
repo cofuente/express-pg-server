@@ -1,7 +1,7 @@
 {
-  "name": "boilermaker",
-  "version": "2.0.0",
-  "description": "Some boilerplate code to get you started - get shakin'!",
+  "name": "express-pg-server",
+  "version": "1.0.0",
+  "description": "simple express pg server with a VERY minimal react frontend for auth purposes",
   "engines": {
     "node": ">= 7.0.0"
   },
